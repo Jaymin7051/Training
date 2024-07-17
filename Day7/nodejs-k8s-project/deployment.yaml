@@ -17,3 +17,4 @@ spec:
         image: jayminmodi2000/nodejs-k8s-app
         ports:
         - containerPort: 3000
+
