@@ -1,0 +1,12 @@
+Servar Name: WebServer01
+IP Address: 192.168.1.100
+AInstalled packages: Apache, MySQL, PHP
+Configuration Complete: Yes
+C
+C
+B
+B
+B
+C
+C
+OS: Ubuntu 22.0
