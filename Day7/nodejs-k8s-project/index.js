@@ -3,7 +3,7 @@ const app = express();
 const port = 3000;
 
 app.get('/', (req, res) => {
-    res.send('Hello, Kubernetes!');
+    res.send('Hello, Kubernetes!, updated version');
 });
 app.get('/newroute', (req, res) => {
     res.send('This is a new route!');
